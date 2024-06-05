@@ -1,0 +1,12 @@
+C:\Users\ratus\source\repos\Ransom\Ransom\bin\x86\Release\net6.0-windows\RamsRat.exe
+C:\Users\ratus\source\repos\Ransom\Ransom\bin\x86\Release\net6.0-windows\RamsRat.deps.json
+C:\Users\ratus\source\repos\Ransom\Ransom\bin\x86\Release\net6.0-windows\RamsRat.runtimeconfig.json
+C:\Users\ratus\source\repos\Ransom\Ransom\bin\x86\Release\net6.0-windows\RamsRat.dll
+C:\Users\ratus\source\repos\Ransom\Ransom\obj\x86\Release\net6.0-windows\Ransom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ratus\source\repos\Ransom\Ransom\obj\x86\Release\net6.0-windows\Ransom.AssemblyInfoInputs.cache
+C:\Users\ratus\source\repos\Ransom\Ransom\obj\x86\Release\net6.0-windows\Ransom.AssemblyInfo.cs
+C:\Users\ratus\source\repos\Ransom\Ransom\obj\x86\Release\net6.0-windows\Ransom.csproj.CoreCompileInputs.cache
+C:\Users\ratus\source\repos\Ransom\Ransom\obj\x86\Release\net6.0-windows\RamsRat.dll
+C:\Users\ratus\source\repos\Ransom\Ransom\obj\x86\Release\net6.0-windows\refint\RamsRat.dll
+C:\Users\ratus\source\repos\Ransom\Ransom\obj\x86\Release\net6.0-windows\Ransom.genruntimeconfig.cache
+C:\Users\ratus\source\repos\Ransom\Ransom\obj\x86\Release\net6.0-windows\ref\RamsRat.dll

@@ -1,0 +1,14 @@
+C:\Users\ratus\source\repos\Ransom\Ransom\bin\Debug\net6.0\Ransom.exe
+C:\Users\ratus\source\repos\Ransom\Ransom\bin\Debug\net6.0\Ransom.deps.json
+C:\Users\ratus\source\repos\Ransom\Ransom\bin\Debug\net6.0\Ransom.runtimeconfig.json
+C:\Users\ratus\source\repos\Ransom\Ransom\bin\Debug\net6.0\Ransom.dll
+C:\Users\ratus\source\repos\Ransom\Ransom\bin\Debug\net6.0\Ransom.pdb
+C:\Users\ratus\source\repos\Ransom\Ransom\obj\Debug\net6.0\Ransom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ratus\source\repos\Ransom\Ransom\obj\Debug\net6.0\Ransom.AssemblyInfoInputs.cache
+C:\Users\ratus\source\repos\Ransom\Ransom\obj\Debug\net6.0\Ransom.AssemblyInfo.cs
+C:\Users\ratus\source\repos\Ransom\Ransom\obj\Debug\net6.0\Ransom.csproj.CoreCompileInputs.cache
+C:\Users\ratus\source\repos\Ransom\Ransom\obj\Debug\net6.0\Ransom.dll
+C:\Users\ratus\source\repos\Ransom\Ransom\obj\Debug\net6.0\refint\Ransom.dll
+C:\Users\ratus\source\repos\Ransom\Ransom\obj\Debug\net6.0\Ransom.pdb
+C:\Users\ratus\source\repos\Ransom\Ransom\obj\Debug\net6.0\Ransom.genruntimeconfig.cache
+C:\Users\ratus\source\repos\Ransom\Ransom\obj\Debug\net6.0\ref\Ransom.dll
