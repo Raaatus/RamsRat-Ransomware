@@ -1,0 +1,14 @@
+C:\Users\ratus\source\repos\Ransom\Decryptor\bin\x86\Release\net6.0\Decryptor.exe
+C:\Users\ratus\source\repos\Ransom\Decryptor\bin\x86\Release\net6.0\Decryptor.deps.json
+C:\Users\ratus\source\repos\Ransom\Decryptor\bin\x86\Release\net6.0\Decryptor.runtimeconfig.json
+C:\Users\ratus\source\repos\Ransom\Decryptor\bin\x86\Release\net6.0\Decryptor.dll
+C:\Users\ratus\source\repos\Ransom\Decryptor\bin\x86\Release\net6.0\Decryptor.pdb
+C:\Users\ratus\source\repos\Ransom\Decryptor\obj\x86\Release\net6.0\Decryptor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ratus\source\repos\Ransom\Decryptor\obj\x86\Release\net6.0\Decryptor.AssemblyInfoInputs.cache
+C:\Users\ratus\source\repos\Ransom\Decryptor\obj\x86\Release\net6.0\Decryptor.AssemblyInfo.cs
+C:\Users\ratus\source\repos\Ransom\Decryptor\obj\x86\Release\net6.0\Decryptor.csproj.CoreCompileInputs.cache
+C:\Users\ratus\source\repos\Ransom\Decryptor\obj\x86\Release\net6.0\Decryptor.dll
+C:\Users\ratus\source\repos\Ransom\Decryptor\obj\x86\Release\net6.0\refint\Decryptor.dll
+C:\Users\ratus\source\repos\Ransom\Decryptor\obj\x86\Release\net6.0\Decryptor.pdb
+C:\Users\ratus\source\repos\Ransom\Decryptor\obj\x86\Release\net6.0\Decryptor.genruntimeconfig.cache
+C:\Users\ratus\source\repos\Ransom\Decryptor\obj\x86\Release\net6.0\ref\Decryptor.dll
