@@ -33,13 +33,13 @@ Ici, il s'agit simplement d'un script Python qui permet de recevoir des fichiers
 ## Prérequis Build
 
 - Un client Windows (vous pouvez utiliser votre propre Windows, le script est inoffensif, ou utiliser une machine virtuelle).
-- Visual Studio Community
+- [Visual Studio Community](https://visualstudio.microsoft.com/fr/downloads/)
   
 ## Prérequis Started
 
 - Un client Windows (vous pouvez utiliser votre propre Windows, le script est inoffensif, ou utiliser une machine virtuelle).
-- Python 3 (sur Windows ou Linux, peu importe).
-- .NET.
+- [Python 3](https://www.python.org/downloads/) (sur Windows ou Linux, peu importe).
+- [.NET Desktop Runtime 6.0.31](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 
 ## Fonctionnement
 
@@ -77,7 +77,7 @@ Le serveur C2 est indépendant du ransomware. Il peut être distant ou local, pe
 
 - Installation des dépendances :
   - Windows : 
-    - Python3
+    - [Python 3](https://www.python.org/downloads/) 
     ```
     pip install Flask
     ```
