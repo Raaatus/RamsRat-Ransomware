@@ -3,7 +3,7 @@ A fake Ransomware to understand exactly how it works.
 
 **DISCLAIMER: I am not responsible for anything you do with this script. I provide this script and my pseudo-knowledge for the sole purpose of educating, not destroying.**
 
-[Version-Française]()
+[Version-Française](https://github.com/Raaatus/RamsRat-Ransomware/blob/main/readme-fr.md)
 
 To understand how ransomware works, it's important to note that the following is a general description. Ransomware can vary considerably depending on the specific features of each virus.
 
